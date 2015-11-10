@@ -7,3 +7,7 @@
 http://materializecss.com/forms.html
 
 http://www.peoplecancode.com/tutorials/adding-custom-fields-to-devise
+
+이미지 첨북 ㅣ능
+
+http://geekhmer.github.io/blog/2015/02/10/ruby-on-rails-uploads-multiple-files-with-dropzonejs-and-paperclip-gem/
